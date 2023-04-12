@@ -1,4 +1,4 @@
-<img src="https://github.com/tigernetframework/.github/blob/main/profile/Header.png?raw=true">
+<img src="https://github.com/tigernetframework/.github/blob/main/profile/Header-2.png?raw=true">
 
 ## Welcome to Tigernet Open Source!
 We're excited to have you join the Tigernet community! Tigernet is a modern, lightweight backend framework for .NET that simplifies the development of modern technologies like blockchain, payment systems, and AI.
